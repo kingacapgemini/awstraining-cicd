@@ -3,7 +3,7 @@ output "hub" {
 }
 
 output "account_id" {
-  value = "<<ACCOUNT_ID>>"
+  value = "381492178973"
 }
 
 output "availability_zones" {
